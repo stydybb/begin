@@ -5,6 +5,6 @@ git status 查看当前状态
 git add .添加到仓库中
 git commit -m "XXXXX" 提交到仓库
 
-git remote add origin https://github.com/littleFFFF...  仓库进行关联
+git remote add origin https://github.com/stydybb/begin.git  仓库进行关联
 git push -u origin master  推送到远程仓库(第一次需要)
 git push origin master  以后推送
