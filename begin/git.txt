@@ -14,3 +14,5 @@ git pull 远程获取最新版本到本地，自动merge
 git fetch 远程获取最新版本到本地,不会自动merge
 git merge 合并两个分支
 git diff 查看修改了什么
+git log 最近到最远的显示日志
+git reset  --hard HEAD^  当前的版本回退到上一个版本
