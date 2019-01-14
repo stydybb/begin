@@ -8,3 +8,5 @@ git commit -m "XXXXX" 提交到仓库(重点)
 git remote add origin https://github.com/stydybb/begin.git  仓库进行关联
 git push -u origin master  推送到远程仓库(第一次需要)
 git push origin master  以后推送
+git branch 当前分支名
+git checkout -[branchName] 切换分支
