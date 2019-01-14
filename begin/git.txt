@@ -10,3 +10,6 @@ git push -u origin master  推送到远程仓库(第一次需要)
 git push origin master  以后推送
 git branch 当前分支名
 git checkout -[branchName] 切换分支
+git pull 远程获取最新版本到本地，自动merge
+git fetch 远程获取最新版本到本地,不会自动merge
+git merge 合并两个分支
